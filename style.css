@@ -6,6 +6,7 @@ body{
     padding: 0px;
     margin: 0px;
     height: 100%;
+    background: rgba(0,0,0,0.7) url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a773a2dc-1abd-4c03-ac56-b9f8a4c1765b/dfdwog3-5391307d-8e08-4cc2-9b1b-053e5fd42ffb.png/v1/fill/w_1280,h_720,q_80,strp/rx7fd_by_silver9523_dfdwog3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTc3M2EyZGMtMWFiZC00YzAzLWFjNTYtYjlmOGE0YzE3NjViXC9kZmR3b2czLTUzOTEzMDdkLThlMDgtNGNjMi05YjFiLTA1M2U1ZmQ0MmZmYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xjfFJk9MmxwQx2YpUxoBPcf8IXP4cFwdzldf9Ynet6o); background-position: center; background-repeat: no-repeat; background-size: cover; background-blend-mode: darken; background-attachment: fixed;
 }
 
 a{
